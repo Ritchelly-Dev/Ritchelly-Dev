@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ritchelly-Dev
+- 👀 I’m interested in becoming a Dev
+- 🌱 I’m currently learning React Native
